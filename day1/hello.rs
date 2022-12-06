@@ -1,3 +1,5 @@
+// Day 1 - Intro to Rust + Hello World
+
 // This is a comment, and is ignored by the compiler
 
 // This is the main function
